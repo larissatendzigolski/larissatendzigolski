@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larissatendzigolski
-- 👀 I’m interested in HTML,JAVASCRIPT,CSS,REACT and TYPESCRIPT.
+- 👀 I’m interested in HTML, JAVASCRIPT, CSS, REACT and TYPESCRIPT.
 
 
 
